@@ -1,0 +1,29 @@
+{
+  "app": "TALK LIBRARY",
+  "version": "1.1.2",
+  "entry": "index.html",
+  "sha256": {
+    "app.bundle.js": "13c3befbb8c017e4863484189c12595960f44b567417d303caddc650c59643fd",
+    "app.js": "0c44e6bffa293cd5be1ec20c4cd13141bfa052e899b8c0f983d8e4c5dcb8f449",
+    "core.js": "44b75fa76bd6067f50d486eae44d31546f9a9f83084c471d7ff5988b57fd995a",
+    "icon-192.png": "1cc75ba9047f1badb35865e80df59fb7fba5120713eeecdae0109fdde0e0a427",
+    "icon-512.png": "c25de6b174cd486b14f01ddeb8615d904cd780c0f68e60ddb386f0d329c7414a",
+    "icon.svg": "e5178a5b725619d96f57920b48e882fdd43e70d697be8bf99daf2ad489eb24f3",
+    "index.html": "de53bef521ebd757a4a67a6bf63d8eeaac7c62c10996e5f27813f1a255cf7dfb",
+    "manifest.webmanifest": "097ca94bd973fbcfa5490d9e404d432793660f7da4292c51480e581b12c72324",
+    "style.css": "b22439bceddb09ffe7b52a477c5310cbe7009aa4c10e7fda94ce11c14c4f6309",
+    "sw.js": "f19632b88737607b7737d578315b4372ef658242cbe4df35ef2cede8394ed27d"
+  },
+  "sources": {
+    "app.bundle.js": "D:\\Codex\\TALK-LIBRARY\\work\\talk-library\\dist\\app.bundle.js",
+    "app.js": "D:\\Codex\\TALK-LIBRARY\\work\\talk-library\\dist\\app.js",
+    "core.js": "D:\\Codex\\TALK-LIBRARY\\work\\talk-library\\dist\\core.js",
+    "icon-192.png": "D:\\Codex\\TALK-LIBRARY\\work\\talk-library\\dist\\icon-192.png",
+    "icon-512.png": "D:\\Codex\\TALK-LIBRARY\\work\\talk-library\\dist\\icon-512.png",
+    "icon.svg": "D:\\Codex\\TALK-LIBRARY\\work\\talk-library\\dist\\icon.svg",
+    "index.html": "D:\\Codex\\TALK-LIBRARY\\work\\talk-library\\dist\\index.html",
+    "manifest.webmanifest": "D:\\Codex\\TALK-LIBRARY\\work\\talk-library\\dist\\manifest.webmanifest",
+    "style.css": "D:\\Codex\\TALK-LIBRARY\\work\\talk-library\\dist\\style.css",
+    "sw.js": "D:\\Codex\\TALK-LIBRARY\\work\\talk-library\\dist\\sw.js"
+  }
+}
